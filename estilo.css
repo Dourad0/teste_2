@@ -1,0 +1,25 @@
+*/
+
+html,body{
+    height: 100%;
+
+}
+
+.lista{
+    list-style-position: inside;
+    list-style-type: disc;
+    background-color: red;
+    
+    padding: 0 100px;
+}
+
+.lista li{
+    font-size: 20px;
+    color: white;
+    height:50px;
+}
+
+.lista_OL{
+    list-style-position: inside;
+
+}
